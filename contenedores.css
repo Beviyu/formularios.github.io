@@ -1,0 +1,19 @@
+#Principal{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(51, 166, 195);
+    margin: 0px auto;
+}
+.Contenido1{
+    width: 500px;
+    height: 500px;
+    background-color: blueviolet;
+    float: left;
+    
+}
+.Contenido2{
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+    float: right;
+}
